@@ -1,0 +1,22 @@
+body {
+    background-image: url("http://www.designbolts.com/wp-content/uploads/2013/02/Grunge-Seamless-Pattern-For-Website-Background.jpg");
+    width: 100%;
+    text-align: center;
+    
+}
+
+.wrapper {
+    margin: 100px auto;
+    
+}
+
+.form-area {
+    background-color: white;
+    border: solid;
+}
+
+.social {
+    width: 50px;
+    height: 50px;
+}
+
